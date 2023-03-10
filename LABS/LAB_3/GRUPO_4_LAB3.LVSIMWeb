@@ -1,0 +1,13 @@
+<LVSIMWeb>
+  <fileVersion>2</fileVersion>
+  <workstationSize>0</workstationSize>
+  <modules>[{"moduleId":"svg0","type":"8241 svgLargeModule","settings":{"exciterSwitch":0,"exciterKnobButton":0},"panel":"insideTopLeftPanel"},{"moduleId":"svg1","type":"8621 svgSmallModule","settings":{"threePhaseSwitch":1,"lampResetBreakers":[1,1,1]},"panel":"insidePanelMid3"},{"moduleId":"svg2","type":"8821 svgLargeModule","settings":{"voltageAdjustElement":0,"displaySelectorElement":1,"voltmeter":0},"panel":"insideTopRightPanel"},{"moduleId":"svg3","type":"8960_10 svgLargeModule","settings":{"loadControlModeSwitch":0,"manualLoadControlKnobButton":0,"operatingModeSwitch":0,"displayModeSwitch":1},"panel":"insideTopMiddlePanel"},{"moduleId":"svg5","type":"9062 svgSmallModule","panel":"insidePanelMid2"}]</modules>
+  <linkers>[]</linkers>
+  <dataTableSettings>[]</dataTableSettings>
+  <harmonicSettings>{}</harmonicSettings>
+  <meteringSettings>[]</meteringSettings>
+  <meteringLayout>{}</meteringLayout>
+  <phasorSettings>{}</phasorSettings>
+  <scopeSettings>{}</scopeSettings>
+  <openedInstruments>{"dataTable":false,"graph":false,"harmonic":false,"metering":false,"phasor":false,"scope":false,"ctrl8960":false,"synchroscope":false,"yellowMultimeter":false,"redMultimeter":false}</openedInstruments>
+</LVSIMWeb>
